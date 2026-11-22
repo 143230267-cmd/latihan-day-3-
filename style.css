@@ -1,0 +1,25 @@
+#navbar {
+    background-color: rgb(218, 176, 38);
+    color: rgb(158, 22, 137);
+    padding: 15px;
+}
+#navbar a, #footer a {
+    color: rgb(194, 238, 238);
+    margin-left: 15px;
+}
+
+.kotak {
+    background-color: rgb(151, 19, 87);
+    color: aliceblue;
+    padding: 20px;
+    margin: 20px;
+    border-radius: 15px;
+    text-align: center;
+}
+
+#footer {
+    margin-top: auto;
+    background-color: rgba(252, 200, 45, 0.938);
+    color: aliceblue;
+    padding: 15px;
+}
